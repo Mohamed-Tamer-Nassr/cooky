@@ -1,0 +1,22 @@
+{
+  "name": "Cookly",
+  "version": "1.0.0",
+  "description": "Recipy application",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html "
+  },
+  "author": "Mohamed Tamer",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.15.4",
+    "parcel": "^2.0.0",
+    "sass": "^1.32.13"
+  },
+  "dependencies": {
+    "core-js": "^3.43.0",
+    "fraction.js": "^5.2.2",
+    "fractional": "^1.0.0",
+    "regenerator-runtime": "^0.14.1"
+  }
+}
