@@ -131,10 +131,10 @@ This project is distributed under the MIT License. For more details, please refe
 
 ## Contact
 
-Mohamed Tamer - [Your LinkedIn Profile]
+Mohamed Tamer - [https://www.linkedin.com/in/mohamed-tamer-nassr]
 
-Project Link: [https://github.com/your_username/cookly-app](https://github.com/your_username/cookly-app)  
-_(Please replace this with your actual GitHub repository link)_
+Project Link: [https://github.com/Mohamed-Tamer-Nassr/cooky]  
+
 
 ---
 
